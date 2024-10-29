@@ -14,14 +14,14 @@ Project Objectives:
 
 4.Sampling Rate Optimization: Determine the ideal sampling rate to balance data accuracy and processing efficiency.
 
-Features:
-
-
 Prerequisites:
 
-Python 3.x
+Python 3 
+
 Machine Learning Libraries (TensorFlow, PyTorch, Scikit-learn)
+
 Data Analysis Libraries (Pandas, NumPy)
+
 Industrial Dataset with sensor readings
 
 
